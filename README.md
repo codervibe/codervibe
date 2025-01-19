@@ -7,7 +7,7 @@
 - 🌱 I’m currently learning ... java python networkSecurity
 - 💞️ I’m looking to collaborate on ...
   
-[![My Skills](https://skillicons.dev/icons?i=python,flask,java,spring,idea,go,aws,cloudflare,gcp,linux,raspberrypi,docker,kubernetes,bash,php,html,js,androidstudio,cpp,c,git,githubactions,md,mysql,redis,arduino,ps,pr,twitter)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=python,java,spring,idea,go,linux,html,js,git,md,mysql,redis,arduino,ps,pr,twitter)](https://skillicons.dev)
 
 <!---
 codervibe/codervibe is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -18,7 +18,7 @@ You can click the Preview link to take a look at your changes.
 <table>
   <tr>
     <td>🥰恭喜您成为第</td>
-    <td><img src="https://profile-counter.glitch.me/AabyssZG/count.svg" alt="" /></td>
+    <td><img src="https://profile-counter.glitch.me/codervibe/count.svg" alt="" /></td>
     <td>位访客，感谢您的关注和支持~😍</td>
   </tr>
 </table>
