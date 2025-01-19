@@ -1,5 +1,5 @@
  <a href="https://github.com/anuraghazra/convoychat">
-  <img align="right" src="https://github-readme-stats.vercel.app/api?username=codervibe&count_private=true&show_icons=true&repo=github-readme-stats&cache_seconds=86400&theme=algolia" />
+  <img align="right" src="https://github-readme-stats.vercel.app/api?username=codervibe&count_private=true&show_icons=true&repo=github-readme-stats&cache_seconds=86400&theme=algolia&locale=cn" />
 </a>
 
 - 👋 Hi, I’m codervibe or zapcoman
@@ -24,7 +24,7 @@ You can click the Preview link to take a look at your changes.
 <table>
   <tr>
     <td>🥰恭喜您成为第</td>
-    <td><img src="https://profile-counter.glitch.me/codervibes/count.svg" alt="" /></td>
+    <td><img src="https://profile-counter.glitch.me/codervibese/count.svg" alt="" /></td>
     <td>位访客，感谢您的关注和支持~😍</td>
   </tr>
 </table>
