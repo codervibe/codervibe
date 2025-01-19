@@ -1,4 +1,4 @@
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=codervibe)](https://github.com/anuraghazra/github-readme-stats)   
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=codervibe&count_private=true&show_icons=true&theme=radical&repo=github-readme-stats&bg_color=0,EC6C6C,FFD479,FFFC79,73FA79)](https://github.com/anuraghazra/github-readme-stats)   
 
 - 👋 Hi, I’m codervibe
 - 👀 I’m interested in ...  suchAs: java python shell 
