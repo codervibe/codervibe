@@ -1,5 +1,5 @@
  <a href="https://github.com/anuraghazra/convoychat">
-  <img align="right" src="https://github-readme-stats.vercel.app/api?username=codervibe&count_private=true&show_icons=true&repo=github-readme-stats&cache_seconds=86400&theme=algolia&locale=cn" width="350">
+  <img align="right" src="https://github-readme-stats.vercel.app/api?username=codervibe&count_private=true&show_icons=true&repo=github-readme-stats&cache_seconds=86400&theme=algolia&locale=cn" width="400">
 </a>
 
 - 👋 Hi, I’m codervibe or zapcoman
