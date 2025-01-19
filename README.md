@@ -2,11 +2,14 @@
   <img align="right" src="https://github-readme-stats.vercel.app/api?username=codervibe&count_private=true&show_icons=true&theme=radical&repo=github-readme-stats&bg_color=0,EC6C6C,FFD479,FFFC79,73FA79&" />
 </a>
 
-- 👋 Hi, I’m codervibe
+- 👋 Hi, I’m codervibe or zapcoman
 - 👀 I’m interested in ...  suchAs: java python shell 
 - 🌱 I’m currently learning ... java python networkSecurity
 - 💞️ I’m looking to collaborate on ...
-- 👀 会尝试上传我自己做的一些安全相关的工具
+- 📫 会尝试上传我自己做的一些安全相关的工具,以及自己开发的一些java web项目
+- 👋 My Blog: [https://www.cnblogs.com/ZapcoMan](https://www.cnblogs.com/ZapcoMan)
+- 👋 My Blog: [https://www.cnblogs.com/codervibe](https://www.cnblogs.com/codervibe)
+
 
 [![My Skills](https://skillicons.dev/icons?i=python,java,spring,idea,go,linux,html,js,ts,git,md,mysql,redis,twitter)](https://skillicons.dev)
 
