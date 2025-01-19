@@ -24,7 +24,7 @@ You can click the Preview link to take a look at your changes.
 <table>
   <tr>
     <td>🥰恭喜您成为第</td>
-    <td><img src="https://profile-counter.glitch.me/codervibest/count.svg" alt="" /></td>
+    <td><img src="https://profile-counter.glitch.me/codevibe/count.svg" alt="" /></td>
     <td>位访客，感谢您的关注和支持~😍</td>
   </tr>
 </table>
