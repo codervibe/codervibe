@@ -26,5 +26,6 @@ You can click the Preview link to take a look at your changes.
     <td>🥰恭喜您成为第</td>
     <td wight='900px'><img src="https://profile-counter.glitch.me/codevibe/count.svg" alt="" /></td>
     <td>位访客，感谢您的关注和支持~😍</td>
+    <td>有喜欢的项目可以给个Star⭐</td>
   </tr>
 </table>
