@@ -12,7 +12,7 @@
 - 👋 My Blog: [https://www.cnblogs.com/codervibe](https://www.cnblogs.com/codervibe)
 
 
-[![My Skills](https://skillicons.dev/icons?i=vim,md,html,css,js,bootstrap,ts,c,c++,java,eclipse,idea,go,ruby,rider,python,pycharm,maven,spring,mysql,redis,mongodb,vuejs,nodejs,vite,npm,yarn,webstorm,electron,git,linux,ubuntu,debian,kali,arch,windows,powershell,raspberrypi,github,gitlab,githubactions,workers,wordpress,stackoverflow,twitter)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=vim,md,html,css,js,bootstrap,ts,c,cpp,java,eclipse,idea,go,ruby,rider,python,pycharm,maven,spring,mysql,redis,mongodb,vuejs,nodejs,vite,npm,yarn,webstorm,electron,git,linux,ubuntu,debian,kali,arch,windows,powershell,raspberrypi,github,gitlab,githubactions,workers,wordpress,stackoverflow,twitter)](https://skillicons.dev)
 
 <!---
 codervibe/codervibe is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
