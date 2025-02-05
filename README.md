@@ -1,4 +1,4 @@
- 
+
 
 - 👋 Hi, I’m codervibe or zapcoman
 - 👀 I’m interested in ...  suchAs: java python shell 
@@ -10,18 +10,10 @@
 - 👋 My Blog: [https://www.cnblogs.com/codervibe](https://www.cnblogs.com/codervibe)
 
 
-[![My Skills](https://skillicons.dev/icons?i=vim,md,html,css,js,bootstrap,ts,c,cpp,java,eclipse,idea,go,ruby,rider,python,pycharm,maven,spring,mysql,redis,mongodb,vuejs,nodejs,vite,npm,yarn,webstorm,electron,git,linux,ubuntu,debian,kali,arch,windows,powershell,raspberrypi,github,gitlab,githubactions,workers,wordpress,stackoverflow,twitter)](https://skillicons.dev)
-
-<!---
-codervibe/codervibe is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=codervibe&count_private=true&show_icons=true&theme=radical&repo=github-readme-stats&bg_color=0,EC6C6C,FFD479,FFFC79,73FA79)](https://github.com/anuraghazra/github-readme-stats) 
---->
-
 <table>
   <tr>
     <td>
-     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zapcoman">
+     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zapcoman&layout=compact">
     </td>
     <td>
      <a href="https://github.com/anuraghazra/convoychat">
@@ -30,6 +22,16 @@ You can click the Preview link to take a look at your changes.
     </td>
   </tr>
 </table>
+
+[![My Skills](https://skillicons.dev/icons?i=vim,md,html,css,js,bootstrap,ts,c,cpp,java,eclipse,idea,go,ruby,rider,python,pycharm,maven,spring,mysql,redis,mongodb,vuejs,nodejs,vite,npm,yarn,webstorm,electron,git,linux,ubuntu,debian,kali,arch,windows,powershell,raspberrypi,github,gitlab,githubactions,workers,wordpress,stackoverflow,twitter)](https://skillicons.dev)
+
+<!---
+codervibe/codervibe is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=codervibe&count_private=true&show_icons=true&theme=radical&repo=github-readme-stats&bg_color=0,EC6C6C,FFD479,FFFC79,73FA79)](https://github.com/anuraghazra/github-readme-stats) 
+--->
+
+
 
 # My Future
 
