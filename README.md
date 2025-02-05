@@ -13,7 +13,7 @@
 <table>
   <tr>
     <td>
-     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zapcoman&layout=compact">
+     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zapcoman&layout=compact&hide=scss,freemarker">
     </td>
     <td>
      <a href="https://github.com/anuraghazra/convoychat">
