@@ -29,6 +29,11 @@
 codervibe/codervibe is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=codervibe&count_private=true&show_icons=true&theme=radical&repo=github-readme-stats&bg_color=0,EC6C6C,FFD479,FFFC79,73FA79)](https://github.com/anuraghazra/github-readme-stats) 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Zapcoman/Zapcoman/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Zapcoman/Zapcoman/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Zapcoman/Zapcoman/output/github-contribution-grid-snake.svg">
+</picture>
 --->
 
 
@@ -44,8 +49,4 @@ You can click the Preview link to take a look at your changes.
   </tr>
 </table>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Zapcoman/Zapcoman/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Zapcoman/Zapcoman/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Zapcoman/Zapcoman/output/github-contribution-grid-snake.svg">
-</picture>
+
