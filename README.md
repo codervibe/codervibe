@@ -1,6 +1,4 @@
- <a href="https://github.com/anuraghazra/convoychat">
-  <img align="right" src="https://github-readme-stats.vercel.app/api?username=zapcoman&show_icons=true&repo=github-readme-stats&count_private=true&cache_seconds=86400&theme=algolia&locale=cn" width="400" />
-</a>
+ 
 
 - 👋 Hi, I’m codervibe or zapcoman
 - 👀 I’m interested in ...  suchAs: java python shell 
@@ -19,6 +17,20 @@ codervibe/codervibe is a ✨ special ✨ repository because its `README.md` (thi
 You can click the Preview link to take a look at your changes.
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=codervibe&count_private=true&show_icons=true&theme=radical&repo=github-readme-stats&bg_color=0,EC6C6C,FFD479,FFFC79,73FA79)](https://github.com/anuraghazra/github-readme-stats) 
 --->
+
+<table>
+  <tr>
+    <td>
+     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zapcoman">
+    </td>
+    <td>
+     <a href="https://github.com/anuraghazra/convoychat">
+     <img align="right" src="https://github-readme-stats.vercel.app/api?username=zapcoman&show_icons=true&repo=github-readme-stats&count_private=true&cache_seconds=86400&theme=algolia&locale=cn" width="400" />
+     </a>
+    </td>
+  </tr>
+</table>
+
 # My Future
 
 <table>
@@ -29,3 +41,9 @@ You can click the Preview link to take a look at your changes.
     <td>有喜欢的项目可以给个Star⭐</td>
   </tr>
 </table>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/yhy0/yhy0/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/yhy0/yhy0/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/yhy0/yhy0/output/github-contribution-grid-snake.svg">
+</picture>
