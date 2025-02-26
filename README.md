@@ -6,13 +6,12 @@
 - 💞️ I’m looking to collaborate on ...
 - 📫 会上传我自己做的一些安全相关的工具
 - 📫 也会上传自己开发的一些java web项目
-- 👋 My Blog: [https://www.cnblogs.com/ZapcoMan](https://www.cnblogs.com/ZapcoMan)
-- 👋 My Blog: [https://www.cnblogs.com/codervibe](https://www.cnblogs.com/codervibe)
+- 📚 My Blog: [https://www.cnblogs.com/ZapcoMan](https://www.cnblogs.com/ZapcoMan)
+- 📚 My Blog: [https://www.cnblogs.com/codervibe](https://www.cnblogs.com/codervibe)
 
 
 
-
-<img align="" height="137px" src="https://github-readme-stats.vercel.app/api?username=zapcoman&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&line_height=21&bg_color=0,EC6C6C,FFD479,FFD479,FFD479,F3EDFF,F3EDFF,FFFC79&theme=graywhite&locale=cn" /><img align="" height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zapcoman&hide_title=true&hide_border=true&layout=compact&bg_color=0,FFFC79,F3EDFF,73FEFF,D783FF&theme=graywhite&locale=cn&hide=scss,html,less,freemarker" />
+<img align="" height="137px" src="https://github-readme-stats.vercel.app/api?username=zapcoman&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&line_height=21&bg_color=0,EC6C6C,FFD479,FFFC79,73FA79&theme=graywhite&locale=cn" /><img align="" height="137px"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=zapcoman&hide_title=true&hide_border=true&layout=compact&bg_color=0,73FA79,73FDFF,D783FF&theme=graywhite&locale=cn" />
 
 [![My Skills](https://skillicons.dev/icons?i=vim,md,html,css,js,bootstrap,ts,c,cpp,java,eclipse,idea,go,ruby,rider,python,pycharm,maven,spring,mysql,redis,mongodb,vuejs,nodejs,vite,npm,yarn,webstorm,electron,git,linux,ubuntu,debian,kali,arch,windows,powershell,raspberrypi,github,gitlab,githubactions,workers,wordpress,stackoverflow,twitter)](https://skillicons.dev)
 
@@ -38,7 +37,7 @@ You can click the Preview link to take a look at your changes.
     </td>
   </tr>
 </table>
-
+<img align="" height="137px" src="https://github-readme-stats.vercel.app/api?username=zapcoman&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&line_height=21&bg_color=0,EC6C6C,FFD479,FFD479,FFD479,F3EDFF,F3EDFF,FFFC79&theme=graywhite&locale=cn" /><img align="" height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zapcoman&hide_title=true&hide_border=true&layout=compact&bg_color=0,FFFC79,F3EDFF,73FEFF,D783FF&theme=graywhite&locale=cn&hide=scss,html,less,freemarker" />
 --->
 
 
